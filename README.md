@@ -15,7 +15,7 @@ Keep your AFK sessions organized and track your progress effortlessly! 🚀
 ## ✨ Features
 
 - 💤 **AFK Recording** – Records your full AFK session automatically  
-- 📊 **Discord Summary** – Sends a clean, detailed summary of your AFK session  
+- 📊 **Discord Summary** – Sends a clean, detailed summary of your AFK session (use /wakeup in your discord server)
 - 🎬 **Replay & Full Session Videos** – Watch highlights or your entire AFK session  
 - 📡 **Disconnect detection and (soon) auto reconnect!** - Don't miss out on any rolls!
 
